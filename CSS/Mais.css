@@ -1,0 +1,7 @@
+body{
+    background-image:url(../img/emoji.jpg);
+    background-size: cover;
+}
+.borda1{
+    border: solid 2px red;
+}
