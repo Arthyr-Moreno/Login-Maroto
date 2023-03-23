@@ -1,0 +1,13 @@
+.rowmundo{
+    color: red;
+    font-size: 30px;
+}
+body{
+    
+    background-color: black;
+   background-image: url(../img/matrix.gif);
+   background-repeat:  no-repeat;
+   background-size: cover;
+
+}
+
